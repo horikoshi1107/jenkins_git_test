@@ -1,6 +1,6 @@
 <?php
 
-$a = "aaa"
+$a = "aaa
 
 echo $s;
 ?>
