@@ -29,7 +29,7 @@
 
   <!-- phpcpd -->
 
-  <!-- phpcpd -->
+  <!-- phpcpd
   <target name="phpcpd">
     <phpcpd>
       <fileset dir= "/var/www/jenkins_git_test">
@@ -39,5 +39,5 @@
       <formatter type= "pmd" outfile= "phpcpd.xml" />
     </phpcpd>
   </target>
-
+-->
 </project>
