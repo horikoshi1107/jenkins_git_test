@@ -2,5 +2,5 @@
 
 $a = "aaa";
 
-echo $s;
+echo $a;
 ?>
